@@ -1,4 +1,4 @@
-# kaggle_home_credit
+# Kaggle Competition - Home Credit Loan Default
 
 ### Introduction
 
