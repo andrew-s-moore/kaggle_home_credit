@@ -71,7 +71,7 @@ I have always heard jokes, stories, and comments from professionals that data pr
 
 -Companies don't necessarily have the right data. Meaningful data may need to be engineered from what is available and sometimes, companies may need to begin collecting new data types in order to tackle a problem.
 
-In the impeding age of "AI", I worry that many companies will attempt to integrate AI with terrible data inputs. This will only weaken their business. What many of these companies really need now before AI integration is a metrics framework and a data preparation process. 
+In the impending age of "AI", I worry that many companies will attempt to integrate AI with terrible data inputs. This will only weaken their business. What many of these companies really need now before AI integration is a metrics framework and a data preparation process. 
 
 
 
