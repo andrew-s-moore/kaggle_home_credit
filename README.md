@@ -5,7 +5,7 @@
 This repository will touch on the [Kaggle Home Credit Default Risk Competition](https://www.kaggle.com/competitions/home-credit-default-risk/overview) from 2018. This is a classification based probably where we must help Home Credit, the stakeholder, identify which loan applicants are likely to default. 
 
 
-The *unique* thing about Home Credit is that they target lending to individuals that lack substantial credit history. This means that normal predictors you might find for loan applications do not exist. By being able to more accurately predict wether or not a potential loan applicant with default, Home Credit can **preserve revenue** by loaning to worthy applicants (there will inherently be an expected drop in revenue if we correctly stop lending to bad applicants) and **grow profit margins** by decreasing the cost of granting loans to unqualified applicants.
+The *unique* thing about Home Credit is that they target lending to individuals that lack substantial credit history. This means that normal predictors you might find for loan applications do not exist. By being able to more accurately predict whether or not a potential loan applicant with default, Home Credit can **preserve revenue** by loaning to worthy applicants (there will inherently be an expected drop in revenue if we correctly stop lending to bad applicants) and **grow profit margins** by decreasing the cost of granting loans to unqualified applicants.
 
 
 ### Our Goal
@@ -52,7 +52,7 @@ Home Credit will see two immediate impacts from our model
 
 Personally, one of the greatest difficulties to this process was learning the business. This competition did not have a stakeholder that we could actively work with. Machine learning is only as good as the data that is fed into it. While Home Credit provided a plethora of data, it is always a good idea to connect with SMEs within the business to understand the process, how the data is collected (may be built in bias such as employees filling out fields automatically for customers or not providing all the information available), what hunches the SMEs might have, etc. You will not always have this when modeling, but it certainly helps.
 
-As a group, I can think of two themes that impacted us. First, we did not plan the whole structure before starting. As the project went along, we continually changed things or went backwards in order to progress forward. This was not productive and was a bad use of time. If we had done this before starting, we would have saved hours and hours of time. Second, there was not someone with executive decision. There were last minute decisions made without group input or review that made their way into final submissions and presentations. This caused discussion and I th 
+As a group, I can think of two themes that impacted us. First, we did not plan the whole structure before starting. As the project went along, we continually changed things or went backwards in order to progress forward. This was not productive and was a bad use of time. If we had done this before starting, we would have saved hours and hours of time. Second, there was not someone with executive decision. There were last minute decisions made without group input or review that made their way into final submissions and presentations. This caused in some difficult discussions as some members believed the changes had a negative impact on the submissions.
 
 
 ### Takeaways
